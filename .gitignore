@@ -1,0 +1,19 @@
+build/
+work/
+shared/
+
+#cpp
+compile_commands.json
+.clangd/
+
+# binary
+*.mp3
+*.wav
+*.mp4
+
+# python
+dist/
+.venv/
+.mypy_cache/
+.python-version
+poetry.lock
